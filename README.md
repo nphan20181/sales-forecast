@@ -1,4 +1,9 @@
-# Statistical Time Series Forecast Models
+# Walmart Store's Weekly Sales Forecast
+
+- [Data Preparation](https://github.com/nphan20181/sales-forecast/blob/main/prepare_ts_data.ipynb)
+- [SVD Components](https://github.com/nphan20181/sales-forecast/blob/main/create_svd_results.ipynb)
+
+## Statistical Time Series Forecast Models
 
 1. Simple Exponential Smoothing
    - [Model Implementation](https://github.com/nphan20181/sales-forecast/blob/main/module/es_model.py)
