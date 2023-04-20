@@ -6,8 +6,8 @@ _Statistical time series forecast is a technique that predicts future values usi
 
 ## Documents
 
- - [Project Poster Page 1](https://github.com/nphan20181/sales-forecast/blob/main/Poster%20Page%201.pdf)
- - [Project Poster Page 2](https://github.com/nphan20181/sales-forecast/blob/main/Poster%20Page%202.pdf)
+ - [Abstract & Screen Shots of Web App](https://github.com/nphan20181/sales-forecast/blob/main/Poster%20Page%201.pdf)
+ - [Schematic Diagram & Model Formulas](https://github.com/nphan20181/sales-forecast/blob/main/Poster%20Page%202.pdf)
 
 ## Preprocessing
 
