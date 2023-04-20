@@ -1,10 +1,13 @@
 # Web Application to Evaluate Statistical Time Series Forecast Models: Application to Walmart Sales
 
-Statistical time series forecast is a technique that predicts future values using past values and/or errors of sequenced time series data. Whereas __Exponential Smoothing__ estimates the observed value by weighting recent observations heavier than distant observations, __Holt’s Linear Trend__ expands Exponential Smoothing by adding a growth rate to the estimated value. Moreover, __multiplicative Holt-Winters__ accounts for seasonality by multiplying seasonal factor and sum of estimated mean and growth rate. In contrast, __Autoregressive Integrated Moving Average (ARIMA)__ predicts actual values using a linear combination of the mean of time series, a constant value, weighted past values, weighted past errors and current error. __Seasonal Autoregressive Integrated Moving Average__ further extends ARIMA by incorporating seasonality terms into the model. To enhance understanding of aforementioned statistical time series forecast methods, this study builds a web application that forecasts weekly sales of 45 different Walmart stores in the US using sales data collected between 2010 and 2012. The application not only enables users to evaluate aforesaid statistical time series forecast models but also enables users to gain practical experience with each model.
+## Abstract
 
-## Document
+_Statistical time series forecast is a technique that predicts future values using past values and/or errors of sequenced time series data. Whereas __Exponential Smoothing__ estimates the observed value by weighting recent observations heavier than distant observations, __Holt’s Linear Trend__ expands Exponential Smoothing by adding a growth rate to the estimated value. Moreover, __multiplicative Holt-Winters__ accounts for seasonality by multiplying seasonal factor and sum of estimated mean and growth rate. In contrast, __Autoregressive Integrated Moving Average (ARIMA)__ predicts actual values using a linear combination of the mean of time series, a constant value, weighted past values, weighted past errors and current error. __Seasonal Autoregressive Integrated Moving Average__ further extends ARIMA by incorporating seasonality terms into the model. To enhance understanding of aforementioned statistical time series forecast methods, this study builds a web application that forecasts weekly sales of 45 different Walmart stores in the US using sales data collected between 2010 and 2012. The application not only enables users to evaluate aforesaid statistical time series forecast models but also enables users to gain practical experience with each model._
 
- - [Project Poster](https://github.com/nphan20181/sales-forecast/blob/main/Project_Poster_TS_Forecast.pdf)
+## Documents
+
+ - [Abstract & Screen Shots of Web App](https://github.com/nphan20181/sales-forecast/blob/main/Poster%20Page%201.pdf)
+ - [Schematic Diagram & Model Formulas](https://github.com/nphan20181/sales-forecast/blob/main/Poster%20Page%202.pdf)
 
 ## Preprocessing
 
