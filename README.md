@@ -25,7 +25,7 @@ Statistical time series forecast is a technique that predicts future values usin
 
 ## References
 
-1. [Mendenhall, W. (2019). SECOND COURSE IN STATISTICS: regression analysis. Prentice Hall.
+1. Mendenhall, W. (2019). SECOND COURSE IN STATISTICS: regression analysis. Prentice Hall.
 1. Bowerman, B. L., O’connell, R. T., & Koehler, A. B. (2005). Forecasting, time series, and regression : an applied approach. Thomson Brooks/Cole.
 1. Walmart Recruiting - Store Sales Forecasting. (n.d.). Kaggle.com. https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data
 1. Ostertagova, E., & Ostertag, O. (2011). The Simple Exponential Smoothing Model. Modelling of Mechanical and Mechatronic Systems. Herľany, Slovak Republic: ResearchGate.
